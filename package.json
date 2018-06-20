@@ -1,0 +1,24 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanKhuda/Lab_4_KPP.git"
+  },
+  "author": "Dan Khuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanKhuda/Lab_4_KPP/issues"
+  },
+  "homepage": "https://github.com/DanKhuda/Lab_4_KPP#readme"
+}
